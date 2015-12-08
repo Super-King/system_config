@@ -15,3 +15,4 @@ XDG_PICTURES_DIR="$HOME"
 XDG_VIDEOS_DIR="$HOME"
 test
 test2
+local test
